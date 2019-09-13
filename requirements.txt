@@ -1,0 +1,12 @@
+geopandas
+graphviz
+joblib
+pandas
+matplotlib
+numpy
+parse
+rasterio
+scipy
+shapely
+skimage
+sklearn
